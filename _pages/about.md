@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mit.edu'>Massachusetts Institute of Technology</a>. Computer Science and Artificial Intelligence Laboratory
+subtitle: Postdoctoral Associate at <a href='https://csail.mit.edu'>MIT CSAIL</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: web_photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>32-G440</p>
