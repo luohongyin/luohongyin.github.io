@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### [MIT 6.864] Advanced Natural Language Processing
 
-Organize your courses by years, topics, or universities, however you like!
+- Instructor: Jacob Andreas, Jim Glass
+- Term: Spring 2021
+
+### [MIT 6.864] Advanced Natural Language Processing
+
+- Instructor: Jacob Andreas, Jim Glass
+- Term: Spring 2020
+
+### [MIT 6.862] Applied Machine Learning
+
+- Instructor: stefanie jegelka
+- Term: Spring 2019
