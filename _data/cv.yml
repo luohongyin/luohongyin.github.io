@@ -2,96 +2,113 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hongyin Luo
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st July 1994
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy
+      institution: MIT EECS, Cambridge MA, USA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advised by Dr. Jim Glass
+        - Thesis - Self-training for Natural Language Processing
+    - title: Master of Science
+      institution: MIT EECS, Cambridge MA, USA
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Advised by Dr. Jim Glass
+        - Thesis - Neural attentions for natural language understanding and modeling
+    - title: Becholar of Engineering
+      institution: Tsinghua University, Beijing, China
+      year: 2016
+      description:
+        - Department of Computer Science and Technology
+        - Advised by Prof. Zhiyuan Liu and Prof. Maosong Sun
 
-- title: Experience
+- title: Teaching
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Advanced Natural Language Processing
+      institution: MIT
+      year: Spring 2021
+    - title: Advanced Natural Language Processing
+      institution: MIT
+      year: Spring 2020
+    - title: Applied Machine Learning
+      institution: Spring 2019
+      year: 2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Talks & Presentations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Self-training for Machine Reading Comprehension
+      institution: NAACL, Seattle WA, USA
+      year: July 2022
+    - title: Self-training for Machien Reading cComprehension
+      institution: MIT Annual Meeting, Cambridge MA, USA
+      year: Une 2022
+    - title: QA-based Fact Checking Systems
+      institution: CUHK & CPII, Hong Kong SAR, China
+      year: April 2022
+    - title: Cooperative Self-training
+      institution: MIT EI Seminar, Cambrdige MA, 2022
+      year: March 2022
+    - title: Interpretable Dialog Response Selection
+      institution: Interspeech, Brno, Czech Republic
+      year: September 2021
+    - title: Interpretable Dialog Response Selection
+      institution: Amazon Alexa, Seattle WA, USA
+      year: September 2021
+    - title: Mitigating Biases in Toxic Language Detection
+      institution: Workshop on Online Abuse and Harms 2021, Bangkok, Thailand
+      year: June 2021
+    - title: Automatic Question Generation
+      institution: DSTA, Singapore
+      year: January 2021
+    - title: Automatic Question Generation
+      institution: DSTA, Singapore
+      year: January 2021
+    - title: Knowledge Grounded Conversational Symptom Detection
+      institution: EMNLP-ClinicalNLP, Virtual
+      year: November 2020
+    - title: Prototypical Q Network for Automatic Conversational Diagnosis
+      institution: Interspeech, Shanghai, China
+      year: September 2020
+    - title: Retrieval-based Video Question Answering
+      institution: Interspeech, Graz, Austria
+      year: September 2019
+    - title: Unsupervised Phrase Induction in Language Models
+      institution: ACL, Florence, Italy
+      year: July 2019
+    - title: Learning Cross-sentence Dependency for Co-reference Resolution
+      institution: EMNLP,  Brussels, Belgium
+      year: November 2018
 
-- title: Honors and Awards
+
+- title: Work Experience
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Research Intern
+      institution: Amazon AWS AI, New York City NY, USA
+      year: Summer 2021
+      description:
+        - Mentored by Dr. Xiaofei Ma and Dr. Bing Xiang
+        - Worked on prompt tuning of language models on QA domain adaptation
+    - title: Applied Research Intern
+      institution: Amazon Alexa, New York City NY, USA
+      year: Summer 2020
+      description:
+        - Mentored by Dr. Shang-Wen Li
+        - Worked on unsupervised interpretable dialog response selection
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Research Intern
+      institution: Google Brain, Mountain View CA, USA
+      year: 2019
+      description:
+        - Mentored by Dr. Chung-Cheng Chiu and Dr. Ye Jia
+        - Worked on Simutaneous machien translation.
