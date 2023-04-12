@@ -21,3 +21,5 @@ social: true  # includes social icons at the bottom of the page
 Hongyin is a postdoctoral associate at MIT CSAIL, working with Dr. [Jim Glass](https://people.csail.mit.edu/jrg/) in the [spoken language systems (SLS)](http://groups.csail.mit.edu/sls/) group. He completed his Ph.D. at [MIT EECS](https://www.eecs.mit.edu/) in May 2022, working on self-training for natural language processing.
 
 He has worked on different natural language processing techniques, mostly semantic representation models that help computers understand and generate natural languages better. He has been working on interpretable word representation learning, deep neural networks, co-reference resolution, and other NLP applications. His recent research interest includes efficient and robust language modeling techniques and computational linguistics, especially pragmatics, contextual entailment, and their applications in trustworthy language models.
+
+Email: hyluo [at] mit [dot] edu
