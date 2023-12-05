@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Associate at <a href='https://csail.mit.edu'>MIT CSAIL</a>.
 
