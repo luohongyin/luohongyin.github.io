@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-24 15:59:00-0400
+date: 2023-06-08 15:59:00-0400
 inline: true
 ---
 
-[Biggere is not always better](https://analyticsindiamag.com/bigger-is-not-always-better/)
+Our research on self-training is highlighted on MIT NEWS: [MIT researchers make language models scalable self-learners](https://news.mit.edu/2023/language-models-scalable-self-learners-0608).

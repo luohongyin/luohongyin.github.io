@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-10 15:59:00-0400
+date: 2023-04-20 15:59:00-0400
 inline: true
 ---
 
-Our research on self-training is highlighted on MIT NEWS: [MIT researchers make language models scalable self-learners](https://news.mit.edu/2023/language-models-scalable-self-learners-0608).
+Released the Open Language Safety Research (OpenLSR) [website](https://openlsr.org) and twitter checking bot ([twitter account](https://twitter.com/openlsr) and [blog post](https://openlsr.org/projects/f/openlsr-twitter-bot)). heck out some [results](https://openlsr.org/checkbot) of our UniLC-based twitter-checking experiments!
