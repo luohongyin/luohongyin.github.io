@@ -7,6 +7,8 @@ inline: false
 
 SmoothGPT - Makes AI writing more natural.
 
+Try the tool [here](https://chat.openai.com/g/g-VaHK1VAMY-smoothgpt).
+
 ***
 
 Privacy statement:
