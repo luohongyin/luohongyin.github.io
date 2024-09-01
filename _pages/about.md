@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Associate at <a href='https://csail.mit.edu'>MIT CSAIL</a>.
+subtitle: Working on AI reasoning and efficiency.
 
 profile:
   align: right
